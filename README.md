@@ -1,4 +1,3 @@
-# 📊 Crime Data Analysis of Los Angeles (2020 – Present)
 <img width="1105" height="770" alt="Screenshot 2025-08-20 at 5 50 09 PM" src="https://github.com/user-attachments/assets/09427d47-bc3c-41e6-ae3e-a09fd5b2e488" />
 
 ## 📌 Project Overview
