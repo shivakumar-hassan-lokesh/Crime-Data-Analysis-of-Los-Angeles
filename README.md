@@ -1,4 +1,5 @@
 # 📊 Crime Data Analysis of Los Angeles (2020 – Present)
+<img width="1105" height="770" alt="Screenshot 2025-08-20 at 5 50 09 PM" src="https://github.com/user-attachments/assets/09427d47-bc3c-41e6-ae3e-a09fd5b2e488" />
 
 ## 📌 Project Overview
 This project explores and analyzes crime data from **Los Angeles (2020–Present)** to uncover patterns, trends, and insights.  
@@ -39,8 +40,7 @@ The goal is to understand **crime trends** over time, identify **regional hotspo
 
 ### 4. Advanced Analysis
 - **Outliers & Anomalies** → Detected unusual spikes in crime counts & victim ages  
-- **Demographics** → Analysis by age, sex, and descent groups  
-- **Impact of Events** → COVID-19 lockdown effect on crime rates  
+- **Demographics** → Analysis by age, sex, and descent groups   
 - **Forecasting (ARIMA)** → Predicted crime trends for next 12 months  
 
 
