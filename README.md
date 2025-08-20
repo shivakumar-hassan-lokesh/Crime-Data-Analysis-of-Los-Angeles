@@ -6,7 +6,6 @@ The analysis involves **data cleaning, exploratory data analysis (EDA), demograp
 
 The goal is to understand **crime trends** over time, identify **regional hotspots**, and provide **predictive insights** to assist policymakers and law enforcement.
 
----
 
 ## 📂 Dataset
 - Source: **Crime Data from 2020 to Present (Los Angeles)**  
@@ -18,7 +17,6 @@ The goal is to understand **crime trends** over time, identify **regional hotspo
   - `Vict Age`, `Vict Sex`, `Vict Descent` – Victim demographics  
   - `LAT`, `LON` – Location coordinates  
 
----
 
 ## ⚙️ Project Workflow
 ### 1. Data Acquisition & Inspection
@@ -45,7 +43,6 @@ The goal is to understand **crime trends** over time, identify **regional hotspo
 - **Impact of Events** → COVID-19 lockdown effect on crime rates  
 - **Forecasting (ARIMA)** → Predicted crime trends for next 12 months  
 
----
 
 ## 📊 Key Insights
 1. Crimes peaked and dropped across years, with a sharp decline during the **COVID-19 lockdown**.  
@@ -56,7 +53,6 @@ The goal is to understand **crime trends** over time, identify **regional hotspo
 6. Victims are mostly **20–40 years old**, with outliers in young and elderly groups.  
 7. ARIMA forecasting shows a **gradual rise in crime activity** with seasonal fluctuations.  
 
----
 
 ## 📈 Visualizations
 - Crimes per Year (Bar Chart)  
@@ -67,7 +63,6 @@ The goal is to understand **crime trends** over time, identify **regional hotspo
 - Heatmap of Crimes by Day & Hour  
 - Forecasting (ARIMA Predictions)  
 
----
 
 ## 🛠️ Tech Stack
 - **Python** (Pandas, NumPy)  
@@ -75,7 +70,6 @@ The goal is to understand **crime trends** over time, identify **regional hotspo
 - **Time Series Forecasting**: ARIMA (statsmodels)  
 - **Jupyter Notebook** for workflow  
 
----
 
 ## 🚀 How to Run
 1. Clone the repository:
