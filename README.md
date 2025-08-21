@@ -8,7 +8,7 @@ The goal is to understand **crime trends** over time, identify **regional hotspo
 
 
 ## 📂 Dataset
-- - Source: **[Crime Data from 2020 to Present (Los Angeles)](https://catalog.data.gov/dataset/crime-data-from-2020-to-present)**
+- Source: **[Crime Data from 2020 to Present (Los Angeles)](https://catalog.data.gov/dataset/crime-data-from-2020-to-present)**
 - Size: ~982,000 records  
 - Key Columns:  
   - `DATE OCC` – Date of occurrence  
